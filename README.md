@@ -1,3 +1,3 @@
 # Portfolio
-https://mandeeps-portfolio.netlify.app/
+https://mandeep-singh.netlify.app/
 the code is in master repository
